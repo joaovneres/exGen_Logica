@@ -10,7 +10,7 @@ programa
 		leia(x1)
 		escreva("y1: ")
 		leia(y1)
-		escreva("\nPonto 01 P(x2, y2)")
+		escreva("\nPonto 02 P(x2, y2)")
 		escreva("\nx2: ")
 		leia(x2)
 		escreva("y2: ")
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 279; 
+ * @POSICAO-CURSOR = 267; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
