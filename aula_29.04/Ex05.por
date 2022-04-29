@@ -18,7 +18,7 @@ programa
 		leia(ipoluicao)
 		se(ipoluicao<0){
 			escreva("Digite um número positivo.")
-		}senao se(ipoluicao<0.3){
+		}senao se(ipoluicao<0.26){
 			escreva("Nível de poluição aceitável.")
 		}senao se(ipoluicao>=0.3 e ipoluicao<0.4){
 		escreva("As indústrias do 1º grupo devem suspender as suas atividades.")
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 616; 
+ * @POSICAO-CURSOR = 884; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
